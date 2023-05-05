@@ -1,0 +1,9 @@
+[
+    {"id" : "_aaa", "title": "aaa", "subtitle": "", "type":"text"}, 
+    {"id" : "_bbb", "title": "bbb", "subtitle": "password", "password": true, "type":"text"}, 
+    {"id" : "_ccc", "title": "ccc", "subtitle": "max 6", "maxLength" : 6, "type":"text"},
+    {"id" : "_ddd", "title": "ddd", "subtitle": "multiline", "type":"text", "multiline": true},
+
+    {"id" : "_eee", "title": "eee", "subtitle": "phone#", "type":"phone"}
+    
+]
